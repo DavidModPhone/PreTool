@@ -1,5 +1,9 @@
 # PreTool
 An app to activate devices and installing apps(at the moment, more features will be added in the future)
+# Requirements
+- HP webOS SDK [Download](https://sdk.webosarchive.org)
+- Java
+- .NET Framework 4.8 
 # Builiding Requirements
 - .NET Framework 4.8 SDK
 - Visual Studio 2010 Service Pack 1
