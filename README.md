@@ -1,5 +1,5 @@
 # PreTool
-An app to activate devices and installing apps(at the moment, more features will be added in the future)
+An app to activate devices, packing and installing apps(at the moment, more features will be added in the future)
 # Requirements
 - HP webOS SDK [Download](https://sdk.webosarchive.org)
 - Java
