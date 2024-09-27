@@ -12,5 +12,5 @@ This app is entirely built on Visual Studio 2022, thought you can use any older 
 # Why did i make this app?
 I was bored and i decided to create this little application for legacy webOS Devices, its similar to [webOS Quick Install](https://github.com/JayCanuck/webos-quick-install) 
 
-# Want to make this app better or fix any issues??
+# Want to make this app better or fix any issues?
 Feel free to send a PR Request
